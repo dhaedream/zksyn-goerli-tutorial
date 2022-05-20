@@ -1,0 +1,16 @@
+{
+  "name": "zksync-workflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dhaesha M <dhaesha1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync-deploy": "^0.1.5",
+    "@matterlabs/hardhat-zksync-solc": "^0.3.2",
+    "ethers": "^5.6.6",
+    "hardhat": "^2.9.6",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4",
+    "zksync-web3": "^0.4.0"
+  }
+}
